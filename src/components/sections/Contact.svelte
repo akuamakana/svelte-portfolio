@@ -1,7 +1,4 @@
-<form
-	id="contact"
-	class="text-black bg-white border-2 lg:p-16 p-4 rounded flex flex-col gap-6"
->
+<form id="contact" class="text-black bg-white border-2 lg:p-16 p-4 rounded flex flex-col gap-6">
 	<h1 class="text-xl font-bold">Contact me</h1>
 
 	<div class="flex flex-col gap-3">
@@ -45,6 +42,6 @@
 <style>
 	:global(.split-background) {
 		background-color: white;
-		background-image: -webkit-linear-gradient(white 40%, #27476E 40%);
+		background-image: -webkit-linear-gradient(white 40%, #27476e 40%);
 	}
 </style>
