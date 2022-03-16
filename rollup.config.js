@@ -9,7 +9,7 @@ export default {
 	plugins: [
 		svg({
 			// process SVG to DOM Node or String. Default: false
-			stringify: false
+			stringify: true
 		})
 	]
 };

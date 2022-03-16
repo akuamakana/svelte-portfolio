@@ -32,5 +32,5 @@
 		<SkillIcon svg={docker} label="Docker" />
 		<SkillIcon svg={tailwind} label="TailwindCSS" />
 	</div>
-	<p class="text-gray-500 text-center">and more!</p>
+	<p class="text-gray-500 text-right">and more!</p>
 </div>

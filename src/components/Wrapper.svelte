@@ -11,5 +11,5 @@
 </div>
 
 {#if styleAfter}
-	<img class="scale-y-[-1] w-full -mt-1" src={curve} alt="" />
+	<img class="scale-y-[-1] w-full -mt-1 fill-[#a14403]" src={curve} alt="" />
 {/if}
