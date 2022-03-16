@@ -5,7 +5,7 @@ module.exports = {
 			colors: {
 				primary: '#27476E',
 				stone: '#F2F3F2',
-				secondary: '#ECA400'
+				secondary: '#ECA400',
 			}
 		}
 	},
