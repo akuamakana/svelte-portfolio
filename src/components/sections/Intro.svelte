@@ -10,11 +10,11 @@
 	<div class="flex gap-4">
 		<a
 			href="#projects"
-			class="border-2 py-2 px-6 font-bold border-white rounded bg-white text-blue-600 hover:bg-blue-700 hover:text-white"
+			class="border-2 py-2 px-6 font-bold border-white rounded bg-white text-primary hover:bg-secondary hover:text-white"
 			>View Work</a
 		>
 		<button
-			class="border-2 py-2 px-6 font-bold border-white rounded flex gap-2 items-center hover:bg-blue-700"
+			class="border-2 py-2 px-6 font-bold border-white rounded flex gap-2 items-center hover:bg-secondary"
 		>
 			Download CV
 			<img src={download} alt="download" width="18px" height="18px" />

@@ -12,7 +12,7 @@
 	<title>Kion Kaimi</title>
 </svelte:head>
 
-<Wrapper styleAfter color="bg-blue-600">
+<Wrapper styleAfter color="bg-primary">
 	<Intro />
 </Wrapper>
 

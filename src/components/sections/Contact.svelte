@@ -1,6 +1,6 @@
 <form
 	id="contact"
-	class="text-black bg-white border-2 lg:p-16 md:m-0 m-4 p-4 rounded flex flex-col gap-6"
+	class="text-black bg-white border-2 lg:p-16 p-4 rounded flex flex-col gap-6"
 >
 	<h1 class="text-xl font-bold">Contact me</h1>
 
@@ -36,7 +36,7 @@
 
 	<button
 		type="submit"
-		class="py-2 px-6 font-bold rounded bg-blue-600 text-white self-end hover:bg-blue-700"
+		class="py-2 px-6 font-bold rounded bg-primary text-white self-end hover:bg-secondary"
 		>Send</button
 	>
 </form>
@@ -45,6 +45,6 @@
 <style>
 	:global(.split-background) {
 		background-color: white;
-		background-image: -webkit-linear-gradient(white 40%, #2863eb 40%);
+		background-image: -webkit-linear-gradient(white 40%, #27476E 40%);
 	}
 </style>
